@@ -74,7 +74,10 @@ This demonstrates that **model selection and evaluation metrics are more importa
 ##  How to Run the Project
 1. Clone the repository  
 2. Install the required libraries  
-3. Open the notebook and run all cells  
+3. Open the notebook and run all cells
+
+##  Dataset Source
+The dataset used in this project is **publicly available** and has been included in this repository for reproducibility and ease of use.
 
 ---
 
